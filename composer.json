@@ -1,0 +1,16 @@
+{
+    "name": "ranjith1388/my-first-package",
+    "description": "This is my first package",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {"ranjith1388\\MyFirstPackage\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Ranjith Nair",
+            "email": "ranjith1388@gmail.com"
+        }
+    ]
+}
