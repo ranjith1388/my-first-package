@@ -2,7 +2,7 @@
     "name": "ranjith1388/my-first-package",
     "description": "This is my first package",
     "require": {
-        "php": "^7.2"
+        "php": "^7.0"
     },
     "autoload": {
         "psr-4": {"ranjith1388\\MyFirstPackage\\": "src/"}
