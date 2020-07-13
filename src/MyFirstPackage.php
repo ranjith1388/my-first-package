@@ -1,10 +1,9 @@
 <?php
+     namespace ranjith1388\MyFirstPackage;
 
      class MyFirstPackage{
-
-           namespace ranjith1388\MyFirstPackage
-           
-           public functio showMessage(){
+          
+           public function showMessage(){
                   echo "This is my first package";
            }
      }
